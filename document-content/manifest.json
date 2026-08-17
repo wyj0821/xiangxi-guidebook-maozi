@@ -1,0 +1,100 @@
+[
+  {
+    "id": "source-01-zjj",
+    "fileName": "张家界景区完整版导游词（袁家界-天子山-十里画廊-黄石寨-金鞭溪-天门山）(1).doc",
+    "contentUrl": "/document-content/source-01-zjj.json",
+    "downloadUrl": "/original-documents/张家界景区完整版导游词（袁家界-天子山-十里画廊-黄石寨-金鞭溪-天门山）(1).doc",
+    "sourceSha256": "4CC42A49FC648A4614C9E8FE1C7E06C6E72E6022BC1077C268E4A6784FB521E2",
+    "sourceBytes": 130048,
+    "paragraphCount": 331,
+    "nonemptyParagraphCount": 272,
+    "textCharacterCount": 34400,
+    "audit": {
+      "bodyParagraphs": 331,
+      "headerParagraphs": 0,
+      "footerParagraphs": 0,
+      "noteParagraphs": 0,
+      "commentParagraphs": 0,
+      "tables": 0,
+      "mediaFiles": [],
+      "drawings": 0,
+      "extractedImageBlocks": 0,
+      "deletedTextNodes": 0,
+      "altChunks": 0
+    }
+  },
+  {
+    "id": "source-02-transfer-1",
+    "fileName": "2-1-2市区-景区沿途导游词（接站-沿途-送站）(1).doc",
+    "contentUrl": "/document-content/source-02-transfer-1.json",
+    "downloadUrl": "/original-documents/2-1-2市区-景区沿途导游词（接站-沿途-送站）(1).doc",
+    "sourceSha256": "FE1C3D52F333C752AA5392B43038522D7EA8E9C16D1A260EA6262A14A3558D07",
+    "sourceBytes": 39424,
+    "paragraphCount": 91,
+    "nonemptyParagraphCount": 63,
+    "textCharacterCount": 7875,
+    "audit": {
+      "bodyParagraphs": 87,
+      "headerParagraphs": 0,
+      "footerParagraphs": 4,
+      "noteParagraphs": 0,
+      "commentParagraphs": 0,
+      "tables": 0,
+      "mediaFiles": [],
+      "drawings": 0,
+      "extractedImageBlocks": 0,
+      "deletedTextNodes": 0,
+      "altChunks": 0
+    }
+  },
+  {
+    "id": "source-03-transfer-3",
+    "fileName": "2-1-2市区-景区沿途导游词（接站-沿途-送站）(3).doc",
+    "contentUrl": "/document-content/source-03-transfer-3.json",
+    "downloadUrl": "/original-documents/2-1-2市区-景区沿途导游词（接站-沿途-送站）(3).doc",
+    "sourceSha256": "FE1C3D52F333C752AA5392B43038522D7EA8E9C16D1A260EA6262A14A3558D07",
+    "sourceBytes": 39424,
+    "paragraphCount": 91,
+    "nonemptyParagraphCount": 63,
+    "textCharacterCount": 7875,
+    "audit": {
+      "bodyParagraphs": 87,
+      "headerParagraphs": 0,
+      "footerParagraphs": 4,
+      "noteParagraphs": 0,
+      "commentParagraphs": 0,
+      "tables": 0,
+      "mediaFiles": [],
+      "drawings": 0,
+      "extractedImageBlocks": 0,
+      "deletedTextNodes": 0,
+      "altChunks": 0
+    }
+  },
+  {
+    "id": "source-04-furong-phoenix",
+    "fileName": "芙蓉镇+凤凰导游词完整版(1).docx",
+    "contentUrl": "/document-content/source-04-furong-phoenix.json",
+    "downloadUrl": "/original-documents/芙蓉镇+凤凰导游词完整版(1).docx",
+    "sourceSha256": "6DCB80CA5CB5795E9AF62A6E4DE29C19F17B0538F86B91187A3AB9EA3C420509",
+    "sourceBytes": 100114,
+    "paragraphCount": 603,
+    "nonemptyParagraphCount": 514,
+    "textCharacterCount": 38694,
+    "audit": {
+      "bodyParagraphs": 603,
+      "headerParagraphs": 0,
+      "footerParagraphs": 0,
+      "noteParagraphs": 0,
+      "commentParagraphs": 0,
+      "tables": 0,
+      "mediaFiles": [
+        "word/media/image1.png"
+      ],
+      "drawings": 1,
+      "extractedImageBlocks": 1,
+      "deletedTextNodes": 0,
+      "altChunks": 0
+    }
+  }
+]
